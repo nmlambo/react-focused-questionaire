@@ -98,9 +98,9 @@ And why?
     💡: Some people might be confused about this, but it's actually legal. It's a shorthand property that allows us to set negative margins.
 <br>
 
-10) If a <div/> has no margin or other styling and a <p/> tag inside of it has a margin top of some kind, the margin from the <p/> tag will show up on the div instead (the margin will show above the div not inside of it), why is this? What are the different things that can be done to prevent it?
+10) If a div has no margin or other styling and a p tag inside of it has a margin top of some kind, the margin from the p tag will show up on the div instead (the margin will show above the div not inside of it), why is this? What are the different things that can be done to prevent it?
 
-    💡: The margin from the <p/> tag will show up on the div instead, because the margin from the <p/> tag is not inside of the <div/>. The different things that can be done to prevent this is to add a margin to the <div/>, or to add a margin to the <p/> tag.
+    💡: The margin from the p tag will show up on the div instead, because the margin from the p tag is not inside of the div. The different things that can be done to prevent this is to add a margin to the div, or to add a margin to the p tag.
 
 <br>
 
